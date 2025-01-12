@@ -1,6 +1,5 @@
 # Get-course
-for el zero web school get course
-
+For El Zero Web School Get Course
 
 
 
